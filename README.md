@@ -230,12 +230,12 @@ Simulating situations such as:
 
 | Period                       | Phase                                    |
 | ---------------------------- | ---------------------------------------- |
-| June 2026                    | Requirements analysis and specification  |
-| July – August 2026           | System design and modeling               |
-| September 2026               | Prototype development                    |
-| October – November 2026      | Testing and validation                   |
-| December 2026 – January 2027 | Experimental deployment and improvements |
-| February – March 2027        | Maintenance and documentation            |
+| June 2024                    | Requirements analysis and specification  |
+| July – August 2024           | System design and modeling               |
+| September 2024               | Prototype development                    |
+| October – November 2024      | Testing and validation                   |
+| December 2024 – January 2026 | Experimental deployment and improvements |
+| February – March 2026        | Maintenance and documentation            |
 
 ---
 
@@ -268,6 +268,5 @@ Potential future developments include:
 
 **Hawa Doumbe Traore**
 
-Computer Engineering Student
-
+Network and IT
 Academic Project — Connected Systems & Intelligent Technologies
