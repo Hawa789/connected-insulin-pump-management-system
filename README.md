@@ -1,4 +1,3 @@
-README - Connected Insulin Pump Management System
 # Connected Insulin Pump Management System
 
 ## About the Project
