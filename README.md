@@ -1,7 +1,7 @@
 README - Connected Insulin Pump Management System
 # Connected Insulin Pump Management System
 
-## 📌 About the Project
+## About the Project
 
 **Connected Insulin Pump Management System** is an academic project focused on designing a connected mobile solution for improving insulin administration management, glucose monitoring, and communication between patients and healthcare professionals.
 
@@ -9,11 +9,11 @@ The proposed system connects an insulin pump, a mobile application, and a medica
 
 The project focuses on **connected systems, healthcare technology, data security, remote monitoring, and automation**.
 
-> ⚠️ **Disclaimer:** This project is an academic system design and prototype. It is not a certified medical device and must not be used to administer insulin or make real-world medical decisions.
+>  **Disclaimer:** This project is an academic system design and prototype. It is not a certified medical device and must not be used to administer insulin or make real-world medical decisions.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of the project are to:
 
@@ -27,9 +27,9 @@ The main objectives of the project are to:
 
 ---
 
-## ⚡ Main Features
+## Main Features
 
-### 👤 Patient
+### Patient
 
 * View glucose measurements and history.
 * Visualize glucose trends and historical data.
@@ -39,7 +39,7 @@ The main objectives of the project are to:
 * Communicate with the treating physician through secure messaging.
 * Monitor the status of the connected insulin pump.
 
-### 🩺 Treating Physician
+### Treating Physician
 
 * Access authorized patient data.
 * Monitor glucose trends.
@@ -48,7 +48,7 @@ The main objectives of the project are to:
 * Monitor information transmitted by the system.
 * Manage appointments and communicate with patients.
 
-### 🏥 Chief Physician / Administrator
+### Chief Physician / Administrator
 
 * Manage users and roles.
 * Supervise the overall system.
@@ -57,7 +57,7 @@ The main objectives of the project are to:
 * Monitor data security.
 * Access system-level information.
 
-### 💉 Insulin Pump
+### Insulin Pump
 
 For the academic prototype, the insulin pump is considered a **simulated connected device** used to study:
 
@@ -69,7 +69,7 @@ For the academic prototype, the insulin pump is considered a **simulated connect
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 The system is designed around several interconnected components:
 
@@ -104,7 +104,7 @@ This architecture makes it possible to study communication between a connected d
 
 ---
 
-## 🛠️ Technologies & Concepts
+## Technologies & Concepts
 
 ### Mobile Application
 
@@ -144,7 +144,7 @@ UML is used to analyze and represent:
 
 ---
 
-## 📊 System Modeling & Design
+## System Modeling & Design
 
 The project includes several UML modeling components.
 
@@ -174,7 +174,7 @@ The main entities identified include:
 
 ---
 
-## 🔐 Security & Privacy
+## Security & Privacy
 
 Security is a central aspect of the project because the system involves sensitive healthcare-related information.
 
@@ -193,7 +193,7 @@ These aspects are studied within an academic context and do not represent medica
 
 ---
 
-## 🧪 Testing
+## Testing
 
 The project considers several levels of testing.
 
@@ -226,7 +226,7 @@ Simulating situations such as:
 
 ---
 
-## 📅 Project Planning
+## Project Planning
 
 | Period                       | Phase                                    |
 | ---------------------------- | ---------------------------------------- |
@@ -239,7 +239,7 @@ Simulating situations such as:
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 Project documentation is available in the [`docs/`](./docs/) directory:
 
@@ -248,7 +248,7 @@ Project documentation is available in the [`docs/`](./docs/) directory:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Potential future developments include:
 
@@ -264,7 +264,7 @@ Potential future developments include:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Hawa Doumbe Traore**
 
